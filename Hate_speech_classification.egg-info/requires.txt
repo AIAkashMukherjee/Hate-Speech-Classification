@@ -1,0 +1,16 @@
+pandas
+notebook
+numpy
+keras
+scikit-learn
+tensorflow
+matplotlib
+python-box
+nltk
+pyYAML
+ensure
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+streamlit
